@@ -20,13 +20,13 @@ Eliot Park,
     Execute the Python files using the following commands:
     - To run `algo1.py`:
       ```bash
-      python algo1.py
+      python3 algo1.py
       ```
     - To run `algo2.py`:
       ```bash
-      python algo2.py
+      python3 algo2.py
       ```
     - To run `algo3.py`:
       ```bash
-      python algo3.py
+      python3 algo3.py
       ```
