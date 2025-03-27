@@ -1,3 +1,4 @@
+# Algorithm 2
 def string_run_encoding(S):
     if not S:
         return "Empty String"
